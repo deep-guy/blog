@@ -4,12 +4,12 @@
 # permalink: pretty
 
 # gems: [jekyll-paginate]
-baseurl: /blog
+baseurl: '/blog'
 # Setup
 title: A Persistent Existence
 tagline: 'deep-guys blog'
 description: 'A blog site made by Deep Inder Mohan, student at IIIT Bangalore' 
-url: https://deep-guy.github.io/blog/
+url: https://github.com/deep-guy/blog/
 
 # paginate: 5
 
