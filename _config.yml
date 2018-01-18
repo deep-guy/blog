@@ -3,15 +3,15 @@
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink: pretty
 
-gems: [jekyll-paginate]
-
+# gems: [jekyll-paginate]
+baseurl: '/blog'
 # Setup
 title: A Persistnt Existence
 tagline: 'deep-guys blog'
 description: 'A blog site made by Deep Inder Mohan, student at IIIT Bangalore' 
 url: https://deep-guy.github.io/blog/
-baseurl: '/blog'
-paginate: 5
+
+# paginate: 5
 
 # About/contact
 author:
@@ -20,4 +20,4 @@ author:
   email: mohan.deepinder@gmail.com
 
 # Custom vars
-version: 1.0.0
+# version: 1.0.0
