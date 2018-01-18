@@ -9,8 +9,8 @@ paginate_path: "page:num"
 title: A Persistnt Existence
 tagline: 'deep-guys blog'
 description: 'A blog site made by Deep Inder Mohan, student at IIIT Bangalore' 
-url: https://github.com/deep-guy/
-baseurl: '/blog'
+url: https://deep-guy.github.io/blog/
+baseurl: '/blog/'
 paginate: 5
 
 # About/contact
