@@ -4,7 +4,7 @@
 permalink: pretty
 
 gems: [jekyll-paginate]
-paginate_path: "page:num" 
+
 # Setup
 title: A Persistnt Existence
 tagline: 'deep-guys blog'
