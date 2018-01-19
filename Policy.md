@@ -13,5 +13,5 @@ In general, while leaving a comment on any post, go through the following checkl
 
 In case the comment is able to not fail on any of these questions, then its probably okay to post it on this site.
 <p class="message">
-  The important thing is, remember to have fun and be as constructive in your criticism as possible. **Thank You!**
+  The important thing is, remember to have fun and be as constructive in your criticism as possible. ** Thank You! **
 </p>
